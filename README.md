@@ -22,3 +22,6 @@ Bu proje, 10 farklı sınıfta toplam 60,000 adet 32x32 renkli görüntü içere
 - At
 - Gemi
 - Kamyon
+
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır 
