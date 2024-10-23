@@ -5,7 +5,7 @@ Bu proje, CIFAR-10 veri setini kullanarak nesne tanıma ve sınıflandırma içi
 ## Gereksinimler
 
 - Python 3.x
-- TensorFlow
+- TensorFlow/Keras
 - OpenCV
 - Matplotlib
 
