@@ -1,12 +1,11 @@
-# Nesne Tanıma ve Sınıflandırma-AI
+# Derin Öğrenme ile Nesne Tanıma ve Sınıflandırma
 
-Bu proje, CIFAR-10 veri setini kullanarak nesne tanıma ve sınıflandırma için Bir Konvolüsyonel Sinir Ağı (CNN) uygulamaktadır.
+Bu proje, derin öğrenme teknikleri kullanarak nesne tanıma ve sınıflandırma sistemini uygular. Model, görüntü verileri üzerinde eğitilir ve bir nesnenin sınıfını tahmin edebilir.
 
 ## Gereksinimler
 
 - Python 3.x
 - TensorFlow/Keras
-- OpenCV
 - Matplotlib
 - NumPy
 
