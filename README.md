@@ -3,8 +3,10 @@
 Bu proje, derin öğrenme teknikleri kullanarak nesne tanıma ve sınıflandırma sistemini uygular. Model, görüntü verileri üzerinde eğitilir ve bir nesnenin sınıfını tahmin edebilir.
 
 ## Özellikler
-- ** Veri Ön İşleme: ** Görüntü verilerinin yüklenmesi ve işlenmesi.
-- ** Model Eğitimi: **  Derin öğrenme modeli (CNN) ile nesne sınıflandırma.
+- **Veri Ön İşleme:** Görüntü verilerinin yüklenmesi ve işlenmesi.
+- **Model Eğitimi:**  Derin öğrenme modeli (CNN) ile nesne sınıflandırma.
+- **Tahmin:** Test görüntüleri için sınıf etiketlerini tahmin eder.
+- **Görselleştirme:** Örnek görüntüleri ve tahmin edilen etiketleri çizer.
 
 ## Gereksinimler
 
